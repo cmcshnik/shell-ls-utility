@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "vector.h": "c",
+        "stddef.h": "c",
+        "ls.h": "c",
+        "test_main.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "file_object.h": "c",
+        "types.h": "c",
+        "grp.h": "c",
+        "dirent.h": "c",
+        "typeinfo": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
