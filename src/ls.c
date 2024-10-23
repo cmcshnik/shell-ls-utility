@@ -61,6 +61,7 @@ ListErrorCode ListPaths(const GenericVector* paths, const ListArgs* args, FILE* 
     // }
 
     
+    // MERGING
 
     for (int i = 0; i < paths->len_; ++i) {        
         cur_path = (char*)GetElement(paths, i);
