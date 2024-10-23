@@ -60,6 +60,8 @@ ListErrorCode ListPaths(const GenericVector* paths, const ListArgs* args, FILE* 
     //     free(buf_path);
     // }
 
+    // im on master
+
     for (int i = 0; i < paths->len_; ++i) {        
         cur_path = (char*)GetElement(paths, i);
 
